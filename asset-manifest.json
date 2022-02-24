@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/cosmicdev/static/css/main.81abf940.css",
-    "main.js": "/cosmicdev/static/js/main.2f91593c.js",
+    "main.css": "/cosmicdev/static/css/main.15be5c38.css",
+    "main.js": "/cosmicdev/static/js/main.2128d88a.js",
     "static/media/musical_note.ico": "/cosmicdev/static/media/musical_note.50afcb924eed18a03065.ico",
     "static/media/extraboomerangsmain.png": "/cosmicdev/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
+    "static/media/logo.png": "/cosmicdev/static/media/logo.70d032a5974f3efc5cf1.png",
     "index.html": "/cosmicdev/index.html",
-    "main.81abf940.css.map": "/cosmicdev/static/css/main.81abf940.css.map",
-    "main.2f91593c.js.map": "/cosmicdev/static/js/main.2f91593c.js.map"
+    "main.15be5c38.css.map": "/cosmicdev/static/css/main.15be5c38.css.map",
+    "main.2128d88a.js.map": "/cosmicdev/static/js/main.2128d88a.js.map"
   },
   "entrypoints": [
-    "static/css/main.81abf940.css",
-    "static/js/main.2f91593c.js"
+    "static/css/main.15be5c38.css",
+    "static/js/main.2128d88a.js"
   ]
 }
