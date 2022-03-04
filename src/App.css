@@ -5,3 +5,43 @@
   margin: 0;
   padding: 0;
 }
+.custom-shape-divider-top-1645641317 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1645641317 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 191px;
+  
+}
+
+.custom-shape-divider-top-1645641317 .shape-fill {
+  fill: #202020;
+  
+  
+}
+footer {
+  background: #202020;
+  color: #fff;
+  display: flex
+}
+.footer-content {
+  margin-left: 25px;
+  font-size: 1.5rem;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-wrap {
+  flex: 1;
+}

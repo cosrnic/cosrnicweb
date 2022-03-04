@@ -1,0 +1,25 @@
+.gallery {
+    background: linear-gradient(90deg, #3d49f7 0%, #4326e6 100%);
+    width: auto;
+    height: 84.7vh;
+    display: flex;
+    overflow: hidden;
+    
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.content3 {
+    width: 50%;
+    height: auto;
+
+    padding: 125px 25px;
+    font-size: 25px;
+    color: white;
+    transform: translate(25vw, 0);
+}
+.title3 {
+    display: flex;
+    justify-content: center;
+}

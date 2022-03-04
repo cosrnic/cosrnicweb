@@ -1,13 +1,17 @@
-.main {
-    background: linear-gradient(90deg, #3d68f7 0%, #2653e6 100%);
+.projects {
+    background: linear-gradient(90deg, #f73d3d 0%, #e62626 100%);
     width: auto;
     height: 84.7vh;
     display: flex;
     overflow: hidden;
     
 }
-.content {
-    width: auto;
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.content2 {
+    width: 50%;
     height: auto;
 
     padding: 125px 25px;
@@ -15,19 +19,12 @@
     color: white;
     transform: translate(25vw, 0);
 }
-.title {
+.title2 {
     display: flex;
     justify-content: center;
 }
 
-.extraboomerangs:hover {
-    transform: scale(1.05);
-    transition: all 0.2s ease-out;
-}
-.musicplayer:hover {
-    transform: scale(1.05);
-    transition: all 0.2s ease-out;
-}
+
 .mp-text {
     margin-left: 60%;
 }
@@ -55,18 +52,19 @@
     text-shadow: 0 0 25px #202020;
 }
 .octo {
-    position: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 75px;
+    transform: translate(21.5vw, 0);
 }
 
-.extraboomerangs {
+.extraboomerangs2 {
     width: 400px;
     height: 300px;
     display: inline-block;
-    margin-left: 50px;
+    margin-left: -50px;
+    flex-wrap: wrap;
     
     padding: 3px;
     
@@ -74,7 +72,7 @@
     border-radius: 20px;
     
 }
-.musicplayer {
+.musicplayer2 {
     width: 300px;
     height: 300px;
     margin-left: 25px;
@@ -102,10 +100,6 @@
         font-size: 1rem;
         overflow: hidden;
     }
-    .main {
-        height: 100%;
-        overflow: hidden;
-    }
     .cosmic {
         margin-right: 3px;
         margin-left: 3px;
@@ -123,12 +117,13 @@
         height: 100%;
 
     }
-    .mp-text {
+    .mp-text2 {
+        margin-left: 50%;
         font-size: 1.2rem;
     }
     .octo {
         width: 50px;
-        /* transform: translate(36.5vw, 0); */
+        transform: translate(36.5vw, 0);
     }
     .extraboomerangs {
         width: 300px;
@@ -147,10 +142,12 @@
         margin-left: 15px;
         margin-top: 10px;
         
+        
         padding: 3px;
         
         border: 5px solid #202020;
         border-radius: 20px;
+        flex-wrap: wrap;
         
     }
     .custom-shape-divider-bottom-1645708344 {

@@ -1,0 +1,25 @@
+.about {
+    background: linear-gradient(90deg, #c23df7 0%, #b926e6 100%);
+    width: auto;
+    height: 84.7vh;
+    display: flex;
+    overflow: hidden;
+    
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.content4 {
+    width: 50%;
+    height: auto;
+
+    padding: 125px 25px;
+    font-size: 25px;
+    color: white;
+    transform: translate(25vw, 0);
+}
+.title4 {
+    display: flex;
+    justify-content: center;
+}
