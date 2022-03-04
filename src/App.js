@@ -23,6 +23,7 @@ function App() {
       <Route path="projects" element={<Projects />} />
       <Route path="gallery" element={<Gallery />} />
       <Route path="about" element={<About />} />
+      <Route path="cosrnicweb" element={<Main />} />
     </Routes>
     <Footer />
     </div>
