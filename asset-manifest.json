@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cosmicdev/static/css/main.75523ffe.css",
-    "main.js": "/cosmicdev/static/js/main.37debb51.js",
-    "static/media/musical_note.ico": "/cosmicdev/static/media/musical_note.50afcb924eed18a03065.ico",
-    "static/media/extraboomerangsmain.png": "/cosmicdev/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
-    "static/media/logo.png": "/cosmicdev/static/media/logo.70d032a5974f3efc5cf1.png",
-    "index.html": "/cosmicdev/index.html",
-    "main.75523ffe.css.map": "/cosmicdev/static/css/main.75523ffe.css.map",
-    "main.37debb51.js.map": "/cosmicdev/static/js/main.37debb51.js.map"
+    "main.css": "/cosrnicweb/static/css/main.75523ffe.css",
+    "main.js": "/cosrnicweb/static/js/main.a409822d.js",
+    "static/media/musical_note.ico": "/cosrnicweb/static/media/musical_note.50afcb924eed18a03065.ico",
+    "static/media/extraboomerangsmain.png": "/cosrnicweb/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
+    "static/media/logo.png": "/cosrnicweb/static/media/logo.70d032a5974f3efc5cf1.png",
+    "index.html": "/cosrnicweb/index.html",
+    "main.75523ffe.css.map": "/cosrnicweb/static/css/main.75523ffe.css.map",
+    "main.a409822d.js.map": "/cosrnicweb/static/js/main.a409822d.js.map"
   },
   "entrypoints": [
     "static/css/main.75523ffe.css",
-    "static/js/main.37debb51.js"
+    "static/js/main.a409822d.js"
   ]
 }
