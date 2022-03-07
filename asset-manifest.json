@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cosrnicweb/static/css/main.75523ffe.css",
-    "main.js": "/cosrnicweb/static/js/main.f3060b10.js",
-    "static/media/musical_note.ico": "/cosrnicweb/static/media/musical_note.50afcb924eed18a03065.ico",
-    "static/media/extraboomerangsmain.png": "/cosrnicweb/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
-    "static/media/logo.png": "/cosrnicweb/static/media/logo.70d032a5974f3efc5cf1.png",
-    "index.html": "/cosrnicweb/index.html",
-    "main.75523ffe.css.map": "/cosrnicweb/static/css/main.75523ffe.css.map",
-    "main.f3060b10.js.map": "/cosrnicweb/static/js/main.f3060b10.js.map"
+    "main.css": "/static/css/main.75523ffe.css",
+    "main.js": "/static/js/main.8c3aa73d.js",
+    "static/media/musical_note.ico": "/static/media/musical_note.50afcb924eed18a03065.ico",
+    "static/media/extraboomerangsmain.png": "/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
+    "static/media/logo.png": "/static/media/logo.70d032a5974f3efc5cf1.png",
+    "index.html": "/index.html",
+    "main.75523ffe.css.map": "/static/css/main.75523ffe.css.map",
+    "main.8c3aa73d.js.map": "/static/js/main.8c3aa73d.js.map"
   },
   "entrypoints": [
     "static/css/main.75523ffe.css",
-    "static/js/main.f3060b10.js"
+    "static/js/main.8c3aa73d.js"
   ]
 }
