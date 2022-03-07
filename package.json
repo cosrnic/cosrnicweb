@@ -1,7 +1,7 @@
 {
   "name": "cosrnicweb",
   "version": "0.1.0",
-  "homepage": "https://cosrnic.github.io/cosrnicweb",
+  "homepage": "https://cosrnic.uk",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
