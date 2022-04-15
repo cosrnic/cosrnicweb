@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.49e23a90.css",
-    "main.js": "/static/js/main.37c58346.js",
+    "main.js": "/static/js/main.033c244f.js",
     "static/media/musical_note.ico": "/static/media/musical_note.50afcb924eed18a03065.ico",
     "static/media/extraboomerangsmain.png": "/static/media/extraboomerangsmain.f5cebb0fbaa207123310.png",
     "static/media/logo.png": "/static/media/logo.70d032a5974f3efc5cf1.png",
     "index.html": "/index.html",
     "main.49e23a90.css.map": "/static/css/main.49e23a90.css.map",
-    "main.37c58346.js.map": "/static/js/main.37c58346.js.map"
+    "main.033c244f.js.map": "/static/js/main.033c244f.js.map"
   },
   "entrypoints": [
     "static/css/main.49e23a90.css",
-    "static/js/main.37c58346.js"
+    "static/js/main.033c244f.js"
   ]
 }
